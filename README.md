@@ -15,3 +15,7 @@ HTML・CSS・JavaScript を使って作成されており、キャンバスで�
 盤面が初期化され、最初からプレイできます。
 
 ## ファイル構成
+📁 your-project-folder
+├── index.html // ゲーム本体
+├── style.css // デザイン
+└── script.js // ゲームのロジック
